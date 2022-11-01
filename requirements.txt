@@ -3,3 +3,6 @@ Emojit
 type option
 color
 vibrant
+
+dark mode
+video option
